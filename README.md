@@ -59,6 +59,8 @@ Calculations of basic statistics (avg protein length and aminoacid content) from
 
 [Average protein length table](tables/domains_avg_prot_len.txt)
 
+**Plots**
+
 ![Avg prot len](plots/domains_avg_prot_len.png)
 ![hist_10](plots/histogram_prot_lengths_Archaea.png)
 ![hist_11](plots/histogram_prot_lengths_Bacteria.png)
