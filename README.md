@@ -28,6 +28,7 @@ Calculations of basic statistics (avg protein length and aminoacid content) from
 **Tables**
 
 [Aminoacid content table](tables/selected_organisms_aa_cont.txt)
+
 [Average protein length table](tables/selected_organisms_avg_prot_len.txt)
 
 **Plots**
@@ -42,3 +43,19 @@ Calculations of basic statistics (avg protein length and aminoacid content) from
 ![hist_7](plots/histogram_prot_lengths_Homo.png)
 ![hist_8](plots/histogram_prot_lengths_Mus.png)
 ![hist_9](plots/histogram_prot_lengths_Saccharomyces.png)
+
+### Domains
+
+**Tables**
+
+[Aminoacid content table](tables/domains_aa_cont.txt)
+
+[Average protein length table](tables/domains_avg_prot_len.txt)
+
+![Avg prot len](plots/domains_avg_prot_len.png)
+![hist_10](plots/histogram_prot_lengths_Archaea.png)
+![hist_11](plots/histogram_prot_lengths_Bacteria.png)
+![hist_12](plots/histogram_prot_lengths_Eukaryota.png)
+![hist_13](plots/histogram_prot_lengths_Viruses.png)
+
+
