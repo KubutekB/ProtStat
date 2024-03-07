@@ -3,6 +3,13 @@ Calculations of basic statistics (avg protein length and aminoacid content) from
 - from selected organisms (Arabidopsis thaliana, Bacillus subtilis, Caenorhabditidis elegans, Danio rerio, Drosophila melanogaster, Escherichia coli, Mus musculus, Saccharomyces cerevisiae)
 - from randomly selected 100 samples from different domains (Eukaryota, Bacteria, Archaea, Viruses)
 
+### Required modules
+-requests
+-matplotlib
+-pandas
+-prettytable
+
+
 ### Scripts
 - *download_extract_selected_organisms.py*: download and extract proteomes from 8 organisms
 - *download_domain_samples.py*: download 100 proteome samples from 4 domains
