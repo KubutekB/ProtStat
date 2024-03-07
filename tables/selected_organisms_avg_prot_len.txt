@@ -1,0 +1,13 @@
++-------------------------------------------------------+--------------------+
+|                        Organism                       | Avg protein length |
++-------------------------------------------------------+--------------------+
+|                      Danio rerio                      |        583         |
+|                      Mus musculus                     |        541         |
+|             Escherichia coli (strain K12)             |        308         |
+|                Drosophila melanogaster                |        535         |
+|             Bacillus subtilis (strain 168)            |        290         |
+|                 Caenorhabditis elegans                |        410         |
+| Saccharomyces cerevisiae (strain ATCC 204508 / S288c) |        485         |
+|                      Homo sapiens                     |        554         |
+|                  Arabidopsis thaliana                 |        405         |
++-------------------------------------------------------+--------------------+
